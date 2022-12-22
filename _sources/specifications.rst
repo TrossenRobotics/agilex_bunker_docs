@@ -35,6 +35,8 @@ Specifications Overview
       - 48V30Ah (Upgradable to 40V60Ah)
     * - Charging Time
       - 6 to 7 hours
+    * - Operating Time (No Load)
+      - 2 hours (30Ah), 4 hours (60Ah)
     * - Range (No Load)
       - 10km
     * - Communication

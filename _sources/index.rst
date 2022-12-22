@@ -20,6 +20,7 @@ What's Here
 *   :doc:`getting_started` - These guides will walk you through the setup process for your BUNKER.
 *   :doc:`operation` - These guides will details concepts related to the operation of the BUNKER.
 *   :doc:`specifications` - Contains specification information for the BUNKER and related hardware.
+*   :doc:`downloads` - Downloadable content related to the BUNKER.
 
 Table of Contents:
 ==================
@@ -31,3 +32,4 @@ Table of Contents:
     getting_started.rst
     operation.rst
     specifications.rst
+    downloads.rst
